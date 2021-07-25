@@ -15,8 +15,8 @@ module.exports = {
             'babel-module': {
                 extensions: ['.js', '.jsx', '.ts', '.tsx'],
                 alias: {
-                    '@components': './src/components',
-                    '@constants': './src/constants',
+                    components: './src/components',
+                    constants: './src/constants',
                 },
             },
         },
