@@ -15,8 +15,15 @@ module.exports = {
             'babel-module': {
                 extensions: ['.js', '.jsx', '.ts', '.tsx'],
                 alias: {
-                    components: './src/components',
-                    constants: './src/constants',
+                    '@': './src',
+                    '@assets': './src/assets',
+                    '@components': './src/components',
+                    '@hooks': './src/hooks',
+                    '@services': './src/services',
+                    '@store': './src/store',
+                    '@types': './src/types',
+                    '@utils': './src/utils',
+                    '@views': './src/views'
                 },
             },
         },

@@ -12,9 +12,8 @@
     },
     "keywords": [],
     "author": "Meissam Rasouli",
-    "license": "ISC",
+    "license": "MIT",
     "dependencies": {
-        "clean-webpack-plugin": "^4.0.0-alpha.0",
         "react": "^17.0.2",
         "react-dom": "^17.0.2",
         "react-router-dom": "^5.2.0"
@@ -33,6 +32,7 @@
         "@typescript-eslint/parser": "^4.22.0",
         "babel-loader": "^8.2.2",
         "babel-plugin-module-resolver": "^4.1.0",
+        "clean-webpack-plugin": "^4.0.0-alpha.0",
         "css-loader": "^5.2.4",
         "eslint": "^7.24.0",
         "eslint-config-prettier": "^8.2.0",
