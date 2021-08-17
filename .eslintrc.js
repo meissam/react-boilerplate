@@ -23,7 +23,7 @@ module.exports = {
                     '@store': './src/store',
                     '@types': './src/types',
                     '@utils': './src/utils',
-                    '@views': './src/views'
+                    '@views': './src/views',
                 },
             },
         },
